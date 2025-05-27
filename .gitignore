@@ -1,0 +1,17 @@
+# Frontend clearly excluded
+anchorwork-ui/
+
+# Python cache clearly excluded
+__pycache__/
+
+# Virtual environments clearly excluded
+venv/
+.env/
+
+# Logs, output data clearly excluded
+logs/
+*.log
+*.tmp
+
+# OS-specific files clearly excluded
+.DS_Store
