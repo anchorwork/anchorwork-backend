@@ -1,0 +1,1 @@
+next voyage?" ________________________ Captain’s Closing Reflection for the Week First Mate encourages: "One gratitude, one lesson, or one dream for next week." ________________________ Weekly Encouragement "A seasoned Captain learns from every storm. Your ship grows stronger each voyage. Your First Mate salutes you, Captain."

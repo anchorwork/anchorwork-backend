@@ -1,0 +1,4 @@
+Prompt: Write a random one‑line ship log confirming all Anchorwork systems are nominal.
+
+Reply:
+Ship Log: 22:14 UTC — All Anchorwork systems read nominal; station integrity maintained.

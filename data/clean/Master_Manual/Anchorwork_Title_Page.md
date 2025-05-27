@@ -1,0 +1,1 @@
+Anchorwork™ and the Remapping of Emotional Life, Culture, and Inner Systems Author: Rebecca Morris Affiliation: Independent Researcher, Founder of Anchorwork™ Email: stewardship@theanchorwork.com Word Count: 5,370 Number of Figures: 0 Number of Tables: 6 Language: U.S. English

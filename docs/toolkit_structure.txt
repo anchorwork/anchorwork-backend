@@ -1,0 +1,4 @@
+
+The toolkit.py file defines which tools are available to which agents.
+Each tool is a callable function, and the TOOLKIT dictionary maps names to functions.
+Agents can discover or call tools by name, enabling modular design.

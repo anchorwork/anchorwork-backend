@@ -1,0 +1,15 @@
+
+Decorators in Python are functions that wrap another function to modify or extend its behavior.
+They are commonly used for logging, permission checks, or registering functions dynamically.
+For example:
+    def decorator(func):
+        def wrapper(*args, **kwargs):
+            print("Before call")
+            result = func(*args, **kwargs)
+            print("After call")
+            return result
+        return wrapper
+
+    @decorator
+    def greet():
+        print("Hello")

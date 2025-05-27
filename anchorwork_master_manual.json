@@ -1,0 +1,934 @@
+{
+  "frontMatter": [
+    "Welcome Aboard: A Ritual of Arrival",
+    "Dedication",
+    "How to Use This Manual",
+    "The Anchorwork\u2122 Language: Why We Speak in Weather",
+    "The Anchorwork\u2122 Model Map",
+    "Overview of the 8 Anchorwork\u2122 Pillars",
+    "How the System Works (Pillar Arc + Ritual Cycle)",
+    "Quickstart: \u201cIf You\u2019re Feeling ___, Start Here\u201d",
+    "Lexicon Preview"
+  ],
+  "appendices": [
+    "Appendix A \u2014 The Anchorwork\u2122 Lexicon",
+    "Appendix B \u2014 Emotional Weather Grid + Forecasting Guide",
+    "Appendix C \u2014 Anchor Menu Builder (Sensory, Symbolic, Silent)",
+    "Appendix D \u2014 Compass Tracker + Star Chart Templates",
+    "Appendix E \u2014 Ritual Index (By Emotion, Length, Energy, Modality)",
+    "Appendix F \u2014 Crew Mapping Toolkit + Ritual Roles",
+    "Appendix G \u2014 Ship Structure Terms (Rudder, Crow\u2019s Nest, Bilge, etc.)",
+    "Appendix H \u2014 Legacy Sorting Tools + Cargo Journal",
+    "Appendix I \u2014 Cultural Adaptation & Ritual Translation",
+    "Appendix J \u2014 Fidelity Framework + Facilitator Ethics",
+    "Appendix K \u2014 Use Case Stories (Clinical, Coaching, Education, Community)",
+    "Appendix L \u2014 Remote & Digital Ritual Practices",
+    "Appendix M \u2014 AORS: Outcomes + Resilience Tracking Guide",
+    "Appendix N \u2014 Practice Planner: Daily, Seasonal, Yearly Ritual Calendars",
+    "Appendix O \u2014 Anchorwork Day Guidebook + Recommissioning Ritual",
+    "Appendix P \u2014 First Voyage Starter Kit: Forecast, Anchor, Compass",
+    "Appendix Q \u2014 Pillar Reference Index + Ritual Arc Map"
+  ],
+  "parts": [
+    {
+      "partNumber": 1,
+      "partTitle": "Emotional Navigation & Regulation",
+      "pillars": "Pillars 1 & 2: Self-Awareness + Embodied Rhythm",
+      "chapters": [
+        {
+          "chapterNumber": "1.0",
+          "chapterTitle": "What Is Anchorwork\u2122?",
+          "tags": [
+            "Anchorwork",
+            "Introduction"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "2.0",
+          "chapterTitle": "You Are the Captain",
+          "tags": [
+            "Self-Leadership",
+            "Self-Awareness"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "3.0",
+          "chapterTitle": "Forecasting: Naming the Weather",
+          "tags": [
+            "Emotional Forecasting",
+            "Emotional Awareness"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "4.0",
+          "chapterTitle": "Drop Anchor: Returning to the Body",
+          "tags": [
+            "Grounding",
+            "Embodied Rhythm",
+            "Somatic"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "5.0",
+          "chapterTitle": "The Anchor Menu: Building Your Regulation Toolkit",
+          "tags": [
+            "Regulation",
+            "Toolkit",
+            "Embodied Rhythm"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "6.0",
+          "chapterTitle": "Stillwater: Rest, Silence, and Somatic Completion",
+          "tags": [
+            "Stillness",
+            "Rest",
+            "Somatic"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "7.0",
+          "chapterTitle": "The Nervous System as Ocean",
+          "tags": [
+            "Nervous System",
+            "Emotional State"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "partTitle": "Identity & Parts Work",
+      "pillars": "Pillars 3 & 4: Internal Systems + Value Alignment",
+      "chapters": [
+        {
+          "chapterNumber": "8.0",
+          "chapterTitle": "Meet Your Crew",
+          "tags": [
+            "Parts Work",
+            "Internal Systems"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "9.0",
+          "chapterTitle": "The Compass: Living by What Matters",
+          "tags": [
+            "Values",
+            "Guiding Principles"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "10.0",
+          "chapterTitle": "Emotional Patterns: Fog, Fire, Flood & Drought",
+          "tags": [
+            "Emotional Patterns",
+            "Weather Metaphors"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "11.0",
+          "chapterTitle": "Habit Healing and Ritual Rewiring",
+          "tags": [
+            "Habits",
+            "Ritual Change"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "12.0",
+          "chapterTitle": "Ritual Architecture: Pacing Emotional Change",
+          "tags": [
+            "Ritual Design",
+            "Change Process"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "partTitle": "Relational Stewardship",
+      "pillars": "Pillar 5: Emotional Integrity in Relationship",
+      "chapters": [
+        {
+          "chapterNumber": "13.0",
+          "chapterTitle": "Attuned Communication (The ANCHOR Model)",
+          "tags": [
+            "Communication",
+            "Relationships",
+            "ANCHOR Model"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "14.0",
+          "chapterTitle": "Boundaries, Sacred Refusal, and Repair",
+          "tags": [
+            "Boundaries",
+            "Consent",
+            "Repair"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "15.0",
+          "chapterTitle": "Safe Harbors: Co-Regulation and Relational Anchoring",
+          "tags": [
+            "Co-Regulation",
+            "Support Systems"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "16.0",
+          "chapterTitle": "Sacred Repair: Healing Conflict and Rupture",
+          "tags": [
+            "Conflict Resolution",
+            "Healing Relationships"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "17.0",
+          "chapterTitle": "Internal Dialogue: Crew Conflict and Council",
+          "tags": [
+            "Internal Conflict",
+            "Self-Dialogue"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "partTitle": "Legacy, Lineage & Inheritance",
+      "pillars": "Pillar 6: Intergenerational Healing",
+      "chapters": [
+        {
+          "chapterNumber": "18.0",
+          "chapterTitle": "Legacy Cargo: What You Carry",
+          "tags": [
+            "Intergenerational Trauma",
+            "Legacy"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "19.0",
+          "chapterTitle": "Legacy Storms: Repetition Across Generations",
+          "tags": [
+            "Ancestral Patterns",
+            "Repetition"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "20.0",
+          "chapterTitle": "Legacy Sorting: Keep, Release, Transform",
+          "tags": [
+            "Inheritance",
+            "Sorting"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "21.0",
+          "chapterTitle": "Descendant Stewardship: Becoming an Emotional Ancestor",
+          "tags": [
+            "Future Generations",
+            "Stewardship"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "22.0",
+          "chapterTitle": "The Legacy Fleet",
+          "tags": [
+            "Community Legacy",
+            "Intergenerational"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "partTitle": "Collective Climate Systems",
+      "pillars": "Pillar 7: Group Dynamics & Emotional Ecosystems",
+      "chapters": [
+        {
+          "chapterNumber": "23.0",
+          "chapterTitle": "Collective Weather: Group Climate Awareness",
+          "tags": [
+            "Group Dynamics",
+            "Collective Climate"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "24.0",
+          "chapterTitle": "Harbor Circles: Ritual for Closure and Group Integration",
+          "tags": [
+            "Group Ritual",
+            "Closure",
+            "Integration"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "25.0",
+          "chapterTitle": "Sacred Biodiversity: Emotional Inclusion Across Systems",
+          "tags": [
+            "Diversity",
+            "Emotional Inclusion",
+            "Systems"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "26.0",
+          "chapterTitle": "Systems as Ships: Culture Design + Organizational Repair",
+          "tags": [
+            "Organizational Culture",
+            "Systems Thinking"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 6,
+      "partTitle": "Planetary Stewardship & Emotional Ecology",
+      "pillars": "Pillar 8: Earth-Based Emotion + Civic Healing",
+      "chapters": [
+        {
+          "chapterNumber": "27.0",
+          "chapterTitle": "Eco-Grief and the Soul\u2013Earth Mirror",
+          "tags": [
+            "Eco-Grief",
+            "Ecology",
+            "Emotional Reflection"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "28.0",
+          "chapterTitle": "Planetary Rituals for Climate Grief",
+          "tags": [
+            "Climate Grief",
+            "Ritual",
+            "Earth"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "29.0",
+          "chapterTitle": "Civic Emotional Literacy",
+          "tags": [
+            "Civic Engagement",
+            "Emotional Literacy"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "30.0",
+          "chapterTitle": "The Stewardship Oath",
+          "tags": [
+            "Commitment",
+            "Stewardship"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 7,
+      "partTitle": "Completion, Integration & Return",
+      "pillars": null,
+      "chapters": [
+        {
+          "chapterNumber": "31.0",
+          "chapterTitle": "Integration and the Aftershock Curve",
+          "tags": [
+            "Integration",
+            "Aftershock"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "32.0",
+          "chapterTitle": "Recommissioning: Returning After Collapse",
+          "tags": [
+            "Recovery",
+            "Return"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "33.0",
+          "chapterTitle": "The Anchorwork\u2122 Continuum: Daily, Seasonal, and Long-Term Practice",
+          "tags": [
+            "Continuum",
+            "Practice",
+            "Daily Routine"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "34.0",
+          "chapterTitle": "Anchorwork Day: Annual Ritual of Return",
+          "tags": [
+            "Annual Ritual",
+            "Anchorwork Day"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        },
+        {
+          "chapterNumber": "35.0",
+          "chapterTitle": "The Manual Oath + Final Benediction",
+          "tags": [
+            "Oath",
+            "Benediction",
+            "Conclusion"
+          ],
+          "outline": [
+            "Executive Summary",
+            "Origins + Context (System or Pillar-Specific)",
+            "Framework Breakdown",
+            "Use Cases / Scope of Application",
+            "Anchorwork\u2019s Distinction",
+            "Cross-Model Alignment (Optional Section)",
+            "Scientific Foundations",
+            "Intended Use + Ethical Fidelity",
+            "Vignettes in Practice",
+            "Visual System Map (Descriptive or Illustrated)",
+            "Urgency + Cultural Positioning (Why Now?)",
+            "Anchorwork\u2019s Market & Cultural Position",
+            "Chapter Summary",
+            "APA-Style Reference List"
+          ]
+        }
+      ]
+    }
+  ]
+}
